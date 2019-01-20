@@ -17,7 +17,7 @@ jobs:
 
       - run: yarn install
       - run:
-          name: Run tests
+          name: Build with parcel
           command: yarn build
 
       - save_cache:
@@ -30,7 +30,7 @@ jobs:
           paths: .
   deploy:
     <<: *defaults
-    
+
     steps:
       - attach_workspace:
           at: ~/repo
