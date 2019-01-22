@@ -1,7 +1,7 @@
 {
   "name": "storybook-figma-addon",
   "version": "1.0.2",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "repository": "git@github.com:daniel-cotton/storybook-figma-addon.git",
   "author": "Dan Cotton <dan.cotton@capgemini.com>",
   "license": "MIT",
@@ -10,7 +10,7 @@
     "react": "^16.7.0"
   },
   "scripts": {
-    "build": "parcel build ./src/index.js",
+    "build": "echo \"n/a\"",
     "dev": "parcel watch ./src/index.js"
   },
   "devDependencies": {
