@@ -2,7 +2,6 @@
   "name": "storybook-figma-addon",
   "version": "1.0.1",
   "main": "dist/index.js",
-  "jsnext:main": "src/index.js",
   "repository": "git@github.com:daniel-cotton/storybook-figma-addon.git",
   "author": "Dan Cotton <dan.cotton@capgemini.com>",
   "license": "MIT",
