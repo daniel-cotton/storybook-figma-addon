@@ -6,6 +6,7 @@
   "author": "Dan Cotton <dan.cotton@capgemini.com>",
   "license": "MIT",
   "dependencies": {
+    "@emotion/styled": "^10.0.7",
     "@storybook/addons": "^4.1.11",
     "react": "^16.7.0"
   },
