@@ -839,7 +839,7 @@
     "@emotion/styled-base" "^10.0.7"
     babel-plugin-emotion "^10.0.7"
 
-"@emotion/stylis@0.8.3":
+"@emotion/stylis@0.8.3", "@emotion/stylis@^0.8.3":
   version "0.8.3"
   resolved "https://registry.yarnpkg.com/@emotion/stylis/-/stylis-0.8.3.tgz#3ca7e9bcb31b3cb4afbaeb66156d86ee85e23246"
   integrity sha512-M3nMfJ6ndJMYloSIbYEBq6G3eqoYD41BpDOxreE8j0cb4fzz/5qvmqU9Mb2hzsXcCnIlGlWhS03PCzVGvTAe0Q==
